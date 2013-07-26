@@ -40,6 +40,7 @@ define('DOMAIN_CURRENT_SITE', 'localhost');
 define('PATH_CURRENT_SITE', '/gitnew/wordpressDemo/');
 define('SITE_ID_CURRENT_SITE', 1);
 define('BLOG_ID_CURRENT_SITE', 1);
+define('SUBSITE', 'on');
 /**#@+
  * Authentication Unique Keys and Salts.
  *

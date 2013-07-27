@@ -19,7 +19,7 @@
 define('DB_NAME', 'db_wpgit');
 
 /** MySQL database username */
-define('DB_USER', 'nandni');
+define('DB_USER', 'nandni1');
 
 /** MySQL database password */
 define('DB_PASSWORD', 'nandni123');
